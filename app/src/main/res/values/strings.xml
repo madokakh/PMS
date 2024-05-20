@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PMS</string>
+    <string name="google_calendar_api_key">AIzaSyBghAc1G0tpNV13c9cP31TNeUbvOElq4Rk</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_with_google">"Login with Google"</string>
+    <string name="main_acitivity_title">"កម្មវិធីការងាររបស់ឯ.ឧ. ឯក មនោសែន"</string>
+    <string name="detail_acitivity_title">"កម្មវិធីលម្អិត"</string>
+    <string name="morning">"ព្រឹក"</string>
+    <string name="afternoon">"ថ្ងៃ"</string>
+    <string name="evening">"ល្ងាច"</string>
+    <string name="night">"យប់"</string>
+    <string name="remarked">សម្គាល់</string>
+    <string name="attachments">ឯកសារពាក់ព័ន្ធ</string>
+
+</resources>

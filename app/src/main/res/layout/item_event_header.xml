@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_marginTop="@dimen/dim_10"
+        android:textColor="@color/white"
+        android:id="@+id/text_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textStyle="bold"
+      />
+    <View
+        android:layout_width="match_parent"
+        android:background="#A8A3A3"
+        android:layout_below="@+id/text_date"
+        android:layout_height="1dp"/>
+</RelativeLayout>
