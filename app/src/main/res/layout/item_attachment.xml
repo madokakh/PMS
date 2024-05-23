@@ -53,10 +53,6 @@
 
     </RelativeLayout>
 
-    <View
-        android:background="@color/page_background_color"
-        android:layout_marginTop="5dp"
-        android:layout_width="match_parent"
-        android:layout_height="1dp"/>
+
 
 </LinearLayout>

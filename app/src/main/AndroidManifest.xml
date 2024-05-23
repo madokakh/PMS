@@ -48,6 +48,7 @@
             android:exported="false"/>
         <activity
             android:name=".FullScreenImageActivity"
+            android:theme="@style/AppTheme.NoActionBar"
             android:exported="false"/>
     </application>
 

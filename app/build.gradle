@@ -31,11 +31,11 @@ android {
     buildFeatures {
         viewBinding true
     }
+    useLibrary 'androidx.legacy:legacy-support-v4'
 }
 
 
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.8.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
@@ -55,6 +55,7 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.3.2'
     implementation 'com.squareup.picasso:picasso:2.8'
     implementation 'com.github.dangiashish:StyledCardView:1.0.0'
+   /// implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
 
     implementation 'com.github.MikeOrtiz:TouchImageView:1.4.1'
     testImplementation 'junit:junit:4.13.2'
